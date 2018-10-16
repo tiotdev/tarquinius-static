@@ -1,0 +1,10 @@
+1|Wie hieß der 7. König Roms?|Servius Tullius|Lucius Tarquinius|Brutus Tarquinius|es gab keinen 7. König Roms|-|2|
+2|Wie hieß Tarquinius Superbus 2. Frau?|Lucrezia|Sextia|Tarquinia|Tullia|-|4|
+3|Welche Aussage über Tarquinius Superbus stimmt nicht?|er war ein grausamer Herrscher|er wurde aus Rom vertrieben|er misshandelte Lucrezia|er schaffte den Senat ab|-|3|
+4|Wie viele Zurückeroberungsversuche unternahm Tarquinius Superbus?|keinen|1|2|3|4|5|-|5|
+5|Wie hießen die ersten Konsuln der römischen Republik?|Tarquinius und Tullia|Brutus und Publius Valerius|Brutus und Lucrezius|Lucrezius und Publius Valerius|-|3|
+6|Was passierte bei dem Feldzug von Tarquinii und Veii gegen Rom?|Castor und Pollux erschienen am Himmel|Brutus starb|Juppiters Stimme verkündete den Sieg der Römer|Tarquinius Superbus starb|-|2|
+7|Wer verhinderte die Eroberung Roms bei dem Feldzug der Etrusker gegen Rom?|Horatius|Porsenna|Mucius|Brutus|-|1|
+8|Was geschah bei dem Mordanschlag auf den Etruskerkönig Porsenna?|Porsenna wurde ermordet|Tarquinius Superbus kam um|Der königliche Hofnarr wurde verletzt|Mucius legte seine Hand in ein Feuerbecken|-|4|
+9|Was tat der Etruskerkönig Porsenna?|er ließ ein hölzernes Pferd an die Römer liefern, in dem sich seine Soldaten versteckt hatten. Nur weil die Römer das Friedensgeschenk ablehnten und anzündeten, wurde Rom nicht erobert|Er setzte Tarquinius Superbus als König ein|Er überließ den Römern die Nahrungsvorräte in seinen Feldlagern|Er lieferte Tarquinius Superbus an die Römer aus|-|3|
+10|Wie starb Tarquinius Superbus?|Er starb im Zweikampf|Er starb eines natürlichen Todes|Er wurde vergiftet|Er beging Selbstmord|-|2|
